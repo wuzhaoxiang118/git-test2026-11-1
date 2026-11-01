@@ -1,0 +1,33 @@
+# 你要忽略的文件夹
+第4次提交/
+
+# Windows系统文件
+Thumbs.db
+Desktop.ini
+
+# Mac系统文件
+.DS_Store
+
+# 日志文件
+*.log
+
+# 压缩包
+*.zip
+*.rar
+*.7z
+*.tar.gz
+
+# 编辑器缓存
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Node项目（前端常用）
+node_modules/
+npm-debug.log
+package-lock.json
+
+# Python项目
+__pycache__/
+*.pyc
